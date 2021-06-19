@@ -1795,7 +1795,7 @@ header .main-menu nav ul li:last-child a {
   right: 20px;
 }
 .slider-area .item {
-  height: 80vh;
+  height: 75vh;
 }
 @media only screen and (max-width: 480px) {
   .slider-area .item {
